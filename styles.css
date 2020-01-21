@@ -1,0 +1,146 @@
+body {
+    font-family: Oswald;
+    background: lightgray;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: indigo;
+}
+
+a:hover {
+    cursor: default;
+    font-weight: bold;
+    color: lightcoral;
+}
+
+.readme-wrapper {
+    text-align: center;
+}
+
+.movement {
+    color: lightseagreen;
+    font-weight: 900;
+}
+
+.YEET {
+    color: magenta;
+    font-weight: 900;
+}
+
+.ignited {
+    color: maroon;
+    font-weight: 900;
+}
+
+.League {
+    color: mediumblue;
+    font-weight: 900;
+}
+
+.box1 {
+    margin: 4em;
+    padding: 2em;
+    border: solid 2px lime;
+    border-radius: 10px;
+    width: 30em;
+    background: lavender;
+    display: block;
+}
+
+.box2 {
+    margin: 4em;
+    padding: 2em;
+    border: solid 2px lime;
+    border-radius: 10px;
+    width: 30em;
+    background: lavender;
+    position: block;
+}
+
+.box3 {
+    margin: 4em;
+    padding: 2em;
+    border: solid 2px lime;
+    border-radius: 10px;
+    width: 30em;
+    background: lavender;
+    display: block;
+}
+
+.box4 {
+    margin: 4em;
+    padding: 2em;
+    border: solid 2px lime;
+    border-radius: 10px;
+    width: 30em;
+    background: lavender;
+    display: block;
+}
+
+.h2img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: lemonchiffon;
+    position: relative;
+    top: 60px;
+    left: 20px;
+}
+
+h1 {
+    font-family: Raleway;
+    color: darksalmon;
+}
+
+.original {
+    color: darkslateblue;
+}
+
+.additional {
+    color: darkgrey;
+}
+
+#show1 {
+    color: deeppink;
+}
+
+#show2 {
+    color: fuchsia;
+}
+
+#show3 {
+    color: palevioletred;
+}
+
+#show4 {
+    color: powderblue;
+}
+
+#show5 {
+    color: cyan;
+}
+
+ul {
+    color: darkorange;
+}
+
+.star {
+    color: darkslategrey;
+}
+
+#wars {
+    color: white;
+}
+
+.borderlist {
+    border: solid 2px black;
+}
